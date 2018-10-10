@@ -43,6 +43,7 @@ Register at - https://hacktoberfest.digitalocean.com/
 | [Aakanksha Jain](https://github.com/accakks/) | III | CSE | [@accakks](https://hacktoberfest.digitalocean.com/stats/accakks) |
 | Amrit Srivastava | III | CSE | |
 | [Aditya Agarwal](https://github.com/aditya81070) | III | CSE |  |
+| [Rahul](https://github.com/mad-learner) | III | Software Development |  |
 | Akshay Sharma | III | CSE | |
 | [Sagar Parre](https://github.com/sud0m0nk) | III | IT | [@sud0m0nk](https://hacktoberfest.digitalocean.com/stats/sud0m0nk) | |
 | Abhishek Mohata | III | CSE | |
